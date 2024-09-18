@@ -14,7 +14,7 @@
 - ESET
 - Kaspersky
 
-#B
+# B
 ## Bypass Redirects
 - [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/)
 - [bypass.city](https://bypass.city/)
@@ -22,5 +22,5 @@
 
 
 # P
-##Privacy
+## Privacy
 - [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List)
