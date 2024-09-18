@@ -1,4 +1,5 @@
 # favorites
 
-## Good stuff, tha's probably free or low cost.
+## Good stuff, that's probably free or low cost.
 
+### These are my favorite tools.
